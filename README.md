@@ -1,4 +1,4 @@
-# JavaScript Variables Lab
+lea# JavaScript Variables Lab
 
 ## Problem Statement
 
